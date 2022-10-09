@@ -7,6 +7,7 @@
 ```bash
 git clone https://github.com/b1f6c1c4/strings.git
 cd strings
+npm i
 node index.js
 ```
 
